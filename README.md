@@ -5,6 +5,7 @@ This project automates the process of fetching trending YouTube videos and integ
 ## Features
 - Fetches trending YouTube videos.
 - Schedules automation to run daily at midnight.
+- Downloads the videos to a specified folder
 - Uses Google Cloud Secret Manager to manage API keys securely.
 
 ## Setup
