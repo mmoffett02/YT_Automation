@@ -2,3 +2,5 @@ venv/
 *.pyc
 __pycache__/ 
 client_secret_1080854592336-c3h20km51a6760g7ngc434ut7p616has.apps.googleusercontent.com.json
+token.json
+extracted_timestamps.json
